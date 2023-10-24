@@ -1,19 +1,51 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ahmed+Hashim;+Welcome+to+My+Profile!;I+have+1+years+of+programming+experience;Always+learning+more+about+programming;Now+learning+React.Js.;Always+seeking+new+challenges+and+opportunities;To+be+Software+Engineer.;)](https://git.io/typing-svg)
 
 <h4>A little more about me...</h4>
+  
 
- ```javascript
-  const ahmedHashim = {
+  
+```javascript
+const farouqDaif = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap, 
   Scss],
-  askMeAbout: [chess, mathematics, movies, food],
+  askMeAbout: [chess, mathematics , movies, food ],
   challenge: "I am honing my problem solving skills ",
   funFacts: ['I have 3+ years of studuing mathematics and I have 1+ years remote work experience with devs 
   from all over the world']
 }
 ```
+## **Languages & Frameworks** 📶 
+
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=d26a6a)
+![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
+
+## **Tools** 🛠 
+
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
+![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
+
+## **Github Stats**
+[![farouq's GitHub stats](https://github-readme-stats.vercel.app/api?username=farouqdaif1)](https://github.com/farouqdaif1)
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1&layout=compact)
+
+
+<h2 align="left"><b>📫 How to Reach me:</b></h2>
+
+<p align="left">
+  <a target="_blank"
+    href="https://www.linkedin.com/in/farouqdaif/"><img
+    src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+</p>
+
 
 <!--
 **ahmedhasim209/ahmedhasim209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
