@@ -8,4 +8,3 @@ More actions
 <!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
 
 ![](https://komarev.com/ghpvc/?username=Char-Al&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/char-al/char-al?color=black&logo=github&style=flat-square)
