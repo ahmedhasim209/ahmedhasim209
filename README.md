@@ -1,4 +1,4 @@
-  <summary><b>Stats</b></summary>
+<p>Stats</p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 
