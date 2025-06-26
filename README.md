@@ -1,3 +1,17 @@
+<h4>A little more about me...</h4>
+  
+```javascript
+const ahmedHashim = {
+  lookingFor: "Front-end developer",
+  pronouns: ["he", "his"],
+  code: [JavaScript, React, HTML/CSS, Bootstrap, 
+  Scss],
+  askMeAbout: [footBall, gaming , movies, food ],
+  challenge: "I am honing my problem solving skills ",
+  funFacts: ['I have 1 year remote work experience with devs 
+  from all over the world']
+}
+```
 
 ## **Languages & Frameworks**
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,cpp,react,redux,nextjs,ts)](https://skillicons.dev)
