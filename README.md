@@ -1,5 +1,5 @@
 
-
+## **Languages & Frameworks** 📶 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,redux,nextjs)](https://skillicons.dev)
 
 <p>Stats</p>
