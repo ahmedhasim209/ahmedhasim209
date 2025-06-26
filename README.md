@@ -2,14 +2,13 @@
   
 ```javascript
 const ahmedHashim = {
-  lookingFor: "Front-end developer",
+  Looking for: "Front-end developer opportunity",
   pronouns: ["he", "his"],
-  code: [JavaScript, React, HTML/CSS, Bootstrap, 
-  Scss],
-  askMeAbout: [footBall, gaming , movies, food ],
-  challenge: "I am honing my problem solving skills ",
-  funFacts: ['I have 1 year remote work experience with devs 
-  from all over the world']
+  code: [ HTML/CSS, 
+  tailwind, sass, JavaScript, React, redux, nextjs],
+  askMeAbout: [football, gaming, movies, food ],
+  Challenge: "I am honing my problem-solving skills ",
+  funFacts: ['I have 2 years freelance work experience ']
 }
 ```
 
