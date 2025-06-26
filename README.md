@@ -25,5 +25,5 @@ const ahmedHashim = {
 
 ## **How to Reach me:** 🛠 
  <a href="https://www.linkedin.com/in/ahmmed-hashim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge"/>
   </a>
