@@ -30,3 +30,9 @@ const ahmedHashim = {
  <a href="https://www.facebook.com/aHashim209">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook Badge"/>
   </a>
+ <a href="https://wa.me/+201065070396">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
+  </a>
+ <a href="https://www.instagram.com/ahashim209/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
