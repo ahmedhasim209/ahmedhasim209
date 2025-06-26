@@ -3,7 +3,7 @@
 ```javascript
 const ahmedHashim = {
   Looking for: "Front-end developer opportunity",
-  pronouns: ["he", "his"],
+  pronouns: ["he", "his","him"],
   code: [ HTML/CSS, 
   Tailwind, Sass, JavaScript, React, Redux, Nextjs],
   askMeAbout: [football, gaming, movies, food ],
