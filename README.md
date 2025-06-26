@@ -5,7 +5,7 @@ const ahmedHashim = {
   Looking for: "Front-end developer opportunity",
   pronouns: ["he", "his"],
   code: [ HTML/CSS, 
-  Tailwind, Sass, JavaScript, React, Redux, Nextjs],
+  Tailwind, sass, JavaScript, React, Redux, Nextjs],
   askMeAbout: [football, gaming, movies, food ],
   Challenge: "I am honing my problem-solving skills ",
   funFacts: ['I have 2 years freelance work experience ']
