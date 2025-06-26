@@ -1,3 +1,7 @@
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,redux,nextjs)](https://skillicons.dev)
+
 <p>Stats</p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ahmedhasim209&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
