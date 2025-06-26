@@ -1,9 +1,8 @@
 
-## **Languages & Frameworks** 📶 
+## **Languages & Frameworks**
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,redux,nextjs)](https://skillicons.dev)
 
-<p>Stats</p>
-
+## **Stats**
 ![stats](https://github-readme-stats.vercel.app/api?username=ahmedhasim209&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 
 [![Ahmed Hashim's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhasim209&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
